@@ -17,6 +17,5 @@ navigation:
 cta:
   url: "/conntact"
   button_text: Conntact
-published: false
 
 ---
